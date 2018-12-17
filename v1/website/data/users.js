@@ -60,9 +60,7 @@ module.exports = [
     caption: "Build.amsterdam",
     infoLink: "https://build.amsterdam",
     image: "/img/users/buildamsterdam.png",
-    "attributes": {
-        pinned: true
-    }
+    pinned: true,
   },
   {
     caption: 'CaptainDuckDuck',
