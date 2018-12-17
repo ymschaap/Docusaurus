@@ -57,6 +57,14 @@ module.exports = [
     pinned: true,
   },
   {
+    caption: "Build.amsterdam",
+    infoLink: "https://build.amsterdam",
+    image: "/img/users/buildamsterdam.png",
+    "attributes": {
+        pinned: true
+    }
+  },
+  {
     caption: 'CaptainDuckDuck',
     image: '/img/users/captainduckduck.png',
     infoLink: 'https://captainduckduck.com/',
