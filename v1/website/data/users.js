@@ -177,6 +177,13 @@ module.exports = [
     pinned: false,
   },
   {
+    caption: "Prettier",
+    infoLink: "https://prettier.io",
+    image: "/img/users/prettier.png",
+    fbOpenSource: false,
+    pinned: true
+  },
+  {
     caption: 'Prettier',
     image: '/img/users/prettier.png',
     infoLink: 'https://www.prettier.io',
