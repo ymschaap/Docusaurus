@@ -184,6 +184,13 @@ module.exports = [
     pinned: true,
   },
   {
+    caption: "Prettier Example",
+    infoLink: "https://prettier.io",
+    image: "/img/users/prettier-example.png",
+    fbOpenSource: false,
+    pinned: true
+  },
+  {
     caption: 'Pyre',
     image: '/img/users/pyre.svg',
     infoLink: 'https://pyre-check.org',
