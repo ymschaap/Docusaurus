@@ -148,6 +148,13 @@ module.exports = [
     pinned: true,
   },
   {
+    caption: "Yangshun",
+    infoLink: "yangshun.im",
+    image: "/img/users/yangshun.png",
+    fbOpenSource: false,
+    pinned: false
+  },
+  {
     caption: 'ml5.js',
     image: '/img/users/ml5.png',
     infoLink: 'https://ml5js.org/',
