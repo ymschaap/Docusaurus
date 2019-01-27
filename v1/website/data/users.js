@@ -29,6 +29,13 @@ module.exports = [
     pinned: false,
   },
   {
+    caption: "AV",
+    infoLink: "https://nu.nl",
+    image: "/img/users/av.svg",
+    fbOpenSource: false,
+    pinned: true
+  },
+  {
     caption: 'Babel',
     image: '/img/users/babel.svg',
     infoLink: 'https://babeljs.io/',
