@@ -415,6 +415,13 @@ module.exports = [
     pinned: false,
   },
   {
+    caption: "Test Yvo",
+    infoLink: "https://nu.nl",
+    image: "/img/users/test-yvo.gif",
+    fbOpenSource: false,
+    pinned: true
+  },
+  {
     caption: 'textlint',
     image: 'https://textlint.github.io/img/textlint-icon.png',
     infoLink: 'https://textlint.github.io/',
